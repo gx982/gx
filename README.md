@@ -1,3 +1,3 @@
 # gx - Just a test.
 Adding a second line
-configkey=newvalue2
+configkey=value1
