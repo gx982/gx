@@ -1,6 +1,6 @@
-# :heart:
+## :heart:
 
-People
+# People :smile:
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
