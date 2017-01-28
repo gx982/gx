@@ -1,5 +1,8 @@
 ## :heart:
 
+http://emoji.codes/
+:mount_fuji:
+
 # People :smile:
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
