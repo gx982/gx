@@ -1,7 +1,7 @@
 ## :heart:
 
 http://emoji.codes/
-:mount_fuji:
+:mount_fuji: :skull_crossbones:
 
 # People :smile:
 
